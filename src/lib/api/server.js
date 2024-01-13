@@ -21,8 +21,6 @@ class startApi {
             console.log(`Server running on http://localhost:${this.port}`);
         });
     }
-
-    
 }
 
 module.exports = { startApi };
