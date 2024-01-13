@@ -1,0 +1,16 @@
+{
+  "name": "spacenet",
+  "version": "1.0.0",
+  "description": "Information on the web!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HeroDevc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mineflayer": "^4.17.0",
+    "pg": "^8.11.3"
+  }
+}

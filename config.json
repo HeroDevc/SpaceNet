@@ -1,0 +1,29 @@
+{
+    "database": {
+        "user": "",
+        "host": "",
+        "database": "",
+        "password": "",
+        "port": 5432,
+        "max": 5,
+        "connectionTimeoutMillis": 20000,
+        "idleTimeoutMillis": 45000,
+        "allowExitOnIdle": false
+    },
+    "api": {
+        "port": 3000
+    },
+    "minecraft": {
+        "autoReconnectDelay": 5000,
+        "username": "",
+        "auth": "offline",
+        "antiAFK": true,
+        "servers": [
+            {
+                "serverName": "",
+                "serverAddress": "",
+                "serverVersion": ""
+            }
+        ]
+    }
+}
